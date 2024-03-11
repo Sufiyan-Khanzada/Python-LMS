@@ -4,7 +4,7 @@ Feature-rich learning management system. You may want to build a learning manage
 
 Let's enhance the project by contributing! 👩‍💻👩‍💻
 
-![Screenshot from 2023-12-31 17-36-31](https://github.com/Sufiyan-Khanzada/Python-LMS/293510837-e7fb628a-6275-4160-ae0f-ab27099ab3ca.png)
+![Screenshot from 2023-12-31 17-36-31]https://github.com/Sufiyan-Khanzada/Python-LMS/blob/master/293510837-e7fb628a-6275-4160-ae0f-ab27099ab3ca.png
 
 ## Current features
 
